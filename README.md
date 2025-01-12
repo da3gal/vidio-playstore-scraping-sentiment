@@ -6,5 +6,5 @@ The tool used for scraping data is the [google-play-scraper](https://github.com/
 To run this project, you will need to install:
 
 ```bash
-pip install google-play-scraper```
+pip install google-play-scraper
 pip install Sastrawi
