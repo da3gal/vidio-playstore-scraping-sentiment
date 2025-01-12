@@ -7,4 +7,5 @@ To run this project, you will need to install:
 
 ```bash
 pip install google-play-scraper
+```bash
 pip install Sastrawi
