@@ -5,8 +5,8 @@ The tool used for scraping data is the [google-play-scraper](https://github.com/
 
 To run this project, you will need to install:
 
-1. `pip install google-play-scraper`
+```pip install google-play-scraper```
 
 and
 
-2. `pip install Sastrawi`
+```pip install Sastrawi```
