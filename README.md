@@ -10,5 +10,5 @@ pip install google-play-scraper
 
 and
 
-```bash
+
 pip install Sastrawi
